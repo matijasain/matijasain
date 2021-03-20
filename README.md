@@ -12,5 +12,6 @@ Interested in web development and building things from the scratch.
 </div>
 
 ## Skills and Experience
-* 💻  HTML, CSS, SCSS, JS
-* ⚛  React, NextJS
+* 💻 HTML, CSS, SCSS
+* 💻 JS, Typescript
+* ⚛ React, NextJS
